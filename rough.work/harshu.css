@@ -1,0 +1,6 @@
+h1{
+  unicode-bidi: bidi-override;
+  text-transform: capitalize;
+  font-family: monospace;
+  font-variant: small-caps;
+}
